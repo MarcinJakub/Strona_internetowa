@@ -1,0 +1,53 @@
+body
+{
+	/* background pattern from subtlepattern.com */
+	background-image: url(img/tlo.png);
+	margin: 0;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 16px;
+	height: 100%;
+	width: 1519.2;
+}
+
+
+#nagłówek
+{
+	text-align: center;
+	text-transform: uppercase;
+	background-color: #485b3b;
+	height: 60px;
+	font-size: 36px;
+	letter-spacing: 2px;
+	border-bottom: 2px solid #33402a;
+	padding: 5px 0px 5px 0px;
+	color: white;
+	text-shadow:
+	2px 2px 0 #33402a,
+	-2px 2px 0 #33402a,
+	-2px -2px 0 #33402a,
+	2px -2px 0 #33402a;
+}
+
+#container
+{
+	min-height: 800px;
+	width: 878px;
+	background-color: white;
+	margin-left: auto;
+	margin-right: auto;
+	border-left: 1px solid gray;
+	border-right: 1px solid gray;
+	
+}
+
+
+
+.strona
+{
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	width: 100%;
+	padding: 40px 0px 40px 0px;
+	min-height: 345px;
+}
